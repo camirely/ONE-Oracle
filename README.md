@@ -6,4 +6,4 @@
 # IDE que se usaron
 -Visual Code
 # Esquema
-![](https://www.cursosgis.com/como-integramos-los-lenguajes-html-css-y-javascript/#post/0)
+![](https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)
